@@ -20,3 +20,7 @@ REACT_APP_MEASUREMENT_ID = <br>
 
 * Required node.js (npm). To get: ```https://nodejs.org/en```.
 
+### Video showcase:
+
+[![Видео]()](https://disk.yandex.ru/client/disk/Documents/WTF%20is%20this/X-portmone/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5?idApp=client&dialog=slider&idDialog=%2Fdisk%2FDocuments%2FWTF%20is%20this%2FX-portmone%2F%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2Freact_adm.mp4)
+
