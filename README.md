@@ -22,5 +22,5 @@ REACT_APP_MEASUREMENT_ID = <br>
 
 ### Video showcase:
 
-[![Видео]()](https://disk.yandex.ru/client/disk/Documents/WTF%20is%20this/X-portmone/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5?idApp=client&dialog=slider&idDialog=%2Fdisk%2FDocuments%2FWTF%20is%20this%2FX-portmone%2F%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2Freact_adm.mp4)
+[![Видео](https://1.downloader.disk.yandex.ru/preview/7dec905969eafe068b4a0285a3523fb270d3f3109c4ecfcb8e163398a1d9dac6/inf/shTsOUCKJCg7n4_9pbAIfw1l16z5XGgbsi1AutjhmIZVd6tebee0ADKfWdKb2LEnQ46_ZGQTCuNaeYQiSGBCBQ%3D%3D?uid=240818080&filename=react_adm.mp4&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=240818080&tknv=v2&size=1920x1080)](https://disk.yandex.ru/client/disk/Documents/WTF%20is%20this/X-portmone/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5?idApp=client&dialog=slider&idDialog=%2Fdisk%2FDocuments%2FWTF%20is%20this%2FX-portmone%2F%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2Freact_adm.mp4)
 
