@@ -43,12 +43,20 @@ class PostManager extends React.Component {
         const { theme, text } = this.state;
         const time = new Date().getTime();
         const newPost = { theme, text, time };
-        await addDoc(collection(db, "textPosts"), newPost);    
+        try {
+            await addDoc(collection(db, "textPosts"), newPost);
+        } catch (error) {
+            console.error('Ошибка добавления данных:', error);
+        } 
         await fetchBDData(this)
       };
       
       handleDelete = async (postId) => {
-        await deleteDoc(doc(db, "textPosts", postId));
+        try {
+            await deleteDoc(doc(db, "textPosts", postId));
+        } catch (error) {
+            console.error('Ошибка удаления данных:', error);
+        } 
         await fetchBDData(this)
       };
     
